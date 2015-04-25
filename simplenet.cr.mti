@@ -1,0 +1,9 @@
+C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet.v {1 {vlog -work work -sv -stats=none C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module simpleNet
+-- Compiling module innerNode
+
+Top level modules:
+	simpleNet
+
+} {} {}}

@@ -1,0 +1,126 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects
+vcounter
+Z1 !s110 1428551195
+!i10b 1
+!s100 3?F0KzONgd6z;R5k_6e9f0
+Io^1<N;`fBJQheLnbMcRME3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1427259884
+8C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/counter.v
+FC:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/counter.v
+Z3 L0 10
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1428551195.000000
+!s107 C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/counter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/counter.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vinnerNode
+Z7 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z8 !s110 1429929606
+!i10b 1
+!s100 d<EnXS4FaKZPIKL2jl`;=2
+IScaX?ZT?^3D=:F2L3zM;32
+R2
+Z9 !s105 simplenet_tb_v_unit
+S1
+R0
+Z10 w1429929038
+Z11 8simplenet.v
+Z12 Fsimplenet.v
+L0 33
+R4
+r1
+!s85 0
+31
+Z13 !s108 1429929606.000000
+Z14 !s107 simplenet.v|C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet_tb.v|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet_tb.v|
+!s101 -O0
+!i113 1
+Z16 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+ninner@node
+vsimpleNet
+R7
+R8
+!i10b 1
+!s100 F]G<SeG_Faf82fUza5=>@2
+Io8C5fEj9MFm2=0>Z1Q1eS3
+R2
+R9
+S1
+R0
+R10
+R11
+R12
+L0 1
+R4
+r1
+!s85 0
+31
+R13
+R14
+R15
+!s101 -O0
+!i113 1
+R16
+nsimple@net
+vsimplenet_tb
+R7
+!s110 1429929056
+!i10b 1
+!s100 A3_K`Z=c9_D[8IJNUAjcl3
+I=L[9U`AKke38h27G<QbSB1
+R2
+R9
+S1
+R0
+w1429928787
+8C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet_tb.v
+FC:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/simplenet_tb.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1429929056.000000
+R14
+R15
+!s101 -O0
+!i113 1
+R16
+vtest_counter
+R1
+!i10b 1
+!s100 W1XRSIW<YX:kRUTWR:NVX3
+IB0jY[XWL>YOgB7<;?`8L[1
+R2
+R0
+w1427259886
+8C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/tcounter.v
+FC:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/tcounter.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/tcounter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Michael/Desktop/Tools/FPGA/ModelSim/Projects/tcounter.v|
+!s101 -O0
+!i113 1
+R6
